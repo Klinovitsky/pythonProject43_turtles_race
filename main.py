@@ -22,7 +22,6 @@ def setup():
         new_turtle.color(turtle_color[i])
         new_turtle.pendown()
         turtles.append(new_turtle)
-        # print(turtles)
 
 
 def race():
